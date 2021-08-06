@@ -1,4 +1,6 @@
-# hola-mundo
+# repositorio hola-mundo
+
+Un poco de DichterLiebe:
 
 Ein Jüngling liebt ein Mädchen,
 Die hat einen andern erwählt;
