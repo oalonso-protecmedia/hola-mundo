@@ -1,4 +1,3 @@
 otromás.txt
 Añadido desde GitHub.com
-Y modificado varias veces
-...
+Y modificado varias veces.
