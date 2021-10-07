@@ -1,3 +1,0 @@
-Otro.txt
-Añadido desde github.com
-modificado notepad a la vez que renombrado
